@@ -1,0 +1,16 @@
+/* starter-kit.css CSS */
+
+/* don't forget to validate at https://jigsaw.w3.org/css-validator/ */
+
+body {
+  background-color: #ffffcc;
+  font-size: 16px;
+  height: 100vh; /* make the "page" the full height */
+  color: #333333;
+}
+
+.starter-kit {
+
+}
+
+
